@@ -1609,14 +1609,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "lichthaus"
-version = "0.1.0"
-dependencies = [
- "bytemuck",
- "eframe",
-]
-
-[[package]]
 name = "linux-raw-sys"
 version = "0.4.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3213,6 +3205,14 @@ dependencies = [
  "js-sys",
  "log",
  "web-sys",
+]
+
+[[package]]
+name = "wgpu_template"
+version = "0.1.0"
+dependencies = [
+ "bytemuck",
+ "eframe",
 ]
 
 [[package]]
