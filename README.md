@@ -1,1 +1,4 @@
-Just some basic template with eframe and wgpu
+Barebone template with eframe, wgpu, and slang.
+```
+cargo run
+```
